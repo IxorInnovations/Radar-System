@@ -1,0 +1,5 @@
+Required tools
+Arduino IDE
+Arduino UNO
+Sensors
+Library (Servo.h)
